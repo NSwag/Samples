@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApiWithSwaggerUi", "SampleWebApiWithSwaggerUi\SampleWebApiWithSwaggerUi.csproj", "{EC1E8125-2DA7-4705-8869-BF67CAD59DBD}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SampleWebApiCoreWithSwaggerUi", "SampleWebApiCoreWithSwaggerUi\SampleWebApiCoreWithSwaggerUi.xproj", "{9808821D-41D4-4513-948D-D44429E5FC99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1E8125-2DA7-4705-8869-BF67CAD59DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E8125-2DA7-4705-8869-BF67CAD59DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E8125-2DA7-4705-8869-BF67CAD59DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E8125-2DA7-4705-8869-BF67CAD59DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9808821D-41D4-4513-948D-D44429E5FC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9808821D-41D4-4513-948D-D44429E5FC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9808821D-41D4-4513-948D-D44429E5FC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9808821D-41D4-4513-948D-D44429E5FC99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
