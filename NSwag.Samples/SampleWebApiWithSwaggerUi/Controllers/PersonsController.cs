@@ -19,7 +19,7 @@ namespace SampleWebApiWithSwaggerUi.Controllers
         };
 
         // GET api/values
-        [HttpGet, Route("")]
+        [HttpGet]
         public IEnumerable<Person> Get()
         {
             lock (Persons)

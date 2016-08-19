@@ -12,9 +12,7 @@ namespace SampleWebApiWithSwaggerUi
             {
                 app.UseSwaggerUi(typeof(WebApiApplication).Assembly, new SwaggerUiOwinSettings
                 {
-                    OwinBasePath = "/swagger",
-                    SwaggerUiRoute = "/swagger/foo", 
-                    SwaggerRoute = "/swagger/myswag.json"
+                    OwinBasePath = "/swagger"
                 });
             });
 
