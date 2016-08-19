@@ -19,3 +19,4 @@ src/packages/**
 /src/NSwagStudio.Installer/Generated.wxs
 /src/NSwagStudio.Chocolatey/Output
 /NSwag.Samples/packages
+/src/.vs/restore.dg
