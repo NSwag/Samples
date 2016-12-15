@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebApiWithSwaggerUi",
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SampleWebApiCoreWithSwaggerUi", "SampleWebApiCoreWithSwaggerUi\SampleWebApiCoreWithSwaggerUi.xproj", "{9808821D-41D4-4513-948D-D44429E5FC99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOwenWebApiWithSwaggerUi", "SampleOwenWebApiWithSwaggerUi\SampleOwenWebApiWithSwaggerUi.csproj", "{3C19E64B-CA7C-480C-9481-CB92A7316CF9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOwinWebApiWithSwaggerUi", "SampleOwinWebApiWithSwaggerUi\SampleOwinWebApiWithSwaggerUi.csproj", "{3C19E64B-CA7C-480C-9481-CB92A7316CF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

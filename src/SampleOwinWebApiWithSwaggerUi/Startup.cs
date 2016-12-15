@@ -6,9 +6,9 @@ using Owin;
 using System;
 using System.Web.Http;
 
-[assembly: OwinStartup(typeof(SampleOwenWebApiWithSwaggerUi.Startup))]
+[assembly: OwinStartup(typeof(SampleOwinWebApiWithSwaggerUi.Startup))]
 
-namespace SampleOwenWebApiWithSwaggerUi
+namespace SampleOwinWebApiWithSwaggerUi
 {
     public class Startup
     {

@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace SampleOwenWebApiWithSwaggerUi
+namespace SampleOwinWebApiWithSwaggerUi
 {
     public class BundleConfig
     {

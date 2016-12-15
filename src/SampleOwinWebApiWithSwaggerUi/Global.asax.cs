@@ -3,7 +3,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace SampleOwenWebApiWithSwaggerUi
+namespace SampleOwinWebApiWithSwaggerUi
 {
     public class MvcApplication : System.Web.HttpApplication
     {

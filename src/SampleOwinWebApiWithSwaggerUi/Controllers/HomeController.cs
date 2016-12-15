@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace SampleOwenWebApiWithSwaggerUi.Controllers
+namespace SampleOwinWebApiWithSwaggerUi.Controllers
 {
     public class HomeController : Controller
     {

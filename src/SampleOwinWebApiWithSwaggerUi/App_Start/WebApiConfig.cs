@@ -1,6 +1,6 @@
 ﻿using System.Web.Http;
 
-namespace SampleOwenWebApiWithSwaggerUi
+namespace SampleOwinWebApiWithSwaggerUi
 {
     public static class WebApiConfig
     {

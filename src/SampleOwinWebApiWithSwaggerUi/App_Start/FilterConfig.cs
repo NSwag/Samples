@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace SampleOwenWebApiWithSwaggerUi
+namespace SampleOwinWebApiWithSwaggerUi
 {
     public class FilterConfig
     {

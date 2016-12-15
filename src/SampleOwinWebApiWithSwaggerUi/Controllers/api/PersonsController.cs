@@ -1,9 +1,9 @@
-﻿using SampleOwenWebApiWithSwaggerUi.Models;
+﻿using SampleOwinWebApiWithSwaggerUi.Models;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace SampleOwenWebApiWithSwaggerUi.Controllers
+namespace SampleOwinWebApiWithSwaggerUi.Controllers
 {
     [RoutePrefix("api/Persons")]
     public class PersonsController : ApiController

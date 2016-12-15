@@ -1,4 +1,4 @@
-namespace SampleOwenWebApiWithSwaggerUi.Models
+namespace SampleOwinWebApiWithSwaggerUi.Models
 {
     public class Person
     {
