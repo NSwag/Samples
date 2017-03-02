@@ -9,6 +9,9 @@ src/packages/**
 **.sln.ide/**
 **.vs/**
 
+node_modules
+**/wwwroot/dist/**
+
 [Bb]in/
 [Oo]bj/
 *.nugetreferenceswitcher
