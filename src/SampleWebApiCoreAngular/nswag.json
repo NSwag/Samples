@@ -1,0 +1,50 @@
+﻿{
+  "swaggerGenerator": {
+    "webApiToSwagger": {
+      "assemblyPaths": [
+        "bin/Debug/netcoreapp1.1/SampleWebApiCoreAngular.dll"
+      ],
+      "referencePaths": [],
+      "isAspNetCore": false,
+      "controllerNames": [
+        "SampleWebApiCoreAngular.Controllers.SampleDataController"
+      ],
+      "defaultUrlTemplate": "api/{controller}/{id}",
+      "defaultPropertyNameHandling": "Default",
+      "defaultEnumHandling": "Integer",
+      "flattenInheritanceHierarchy": false,
+      "generateKnownTypes": true,
+      "generateXmlObjects": false,
+      "addMissingPathParameters": false,
+      "infoTitle": "Web API Swagger specification",
+      "infoVersion": "1.0.0",
+      "output": null
+    }
+  },
+  "codeGenerators": {
+    "swaggerToTypeScriptClient": {
+      "className": "{controller}Client",
+      "moduleName": "",
+      "namespace": "",
+      "typeScriptVersion": 1.8,
+      "template": "Angular2",
+      "promiseType": "Promise",
+      "dateTimeType": "Date",
+      "nullValue": "Undefined",
+      "generateClientClasses": true,
+      "generateClientInterfaces": false,
+      "wrapDtoExceptions": false,
+      "clientBaseClass": "ClientBase",
+      "useTransformOptionsMethod": true,
+      "useTransformResultMethod": false,
+      "generateDtoTypes": true,
+      "operationGenerationMode": "MultipleClientsFromOperationId",
+      "markOptionalProperties": false,
+      "typeStyle": "Class",
+      "extensionCode": "ClientApp/app/services.extensions.ts",
+      "generateDefaultValues": true,
+      "excludedTypeNames": [],
+      "output": "ClientApp/app/services.ts"
+    }
+  }
+}
